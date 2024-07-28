@@ -1,0 +1,36 @@
+body {
+    font-family: 'Manrope', sans-serif;
+    font-weight: 700;
+}
+
+.counter {
+    text-align: center;
+    margin-bottom: 36px;
+    padding-top: 50px;
+    font-size: 40px;
+}
+
+.increment_counter {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 36px;
+    width: 500px;
+    height: 100px;
+    font-size: 32px;
+    background-color: rgba(65, 145, 255, 1);
+    border: none;
+    color: white;
+    border-radius: 20px;
+}
+
+.reset_btn {
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+    height: 100px;
+    font-size: 32px;
+    background-color: rgba(212, 83, 102, 1);
+    border: none;
+    color: white;
+    border-radius: 20px;
+}
